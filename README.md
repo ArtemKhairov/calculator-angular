@@ -1,18 +1,24 @@
 # Calculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0-rc.3.
+Этот проект создан при помощи [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0-rc.3.
 
-## Development server
+## Сервер разработки
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Необходимо использовать команду  `ng serve` для запуска сервера разработки. 
 
-## Code scaffolding
+Чтобы воспользоваться функциями приложения необходимо перейти по адресу 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ `http://localhost:4200/`
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Сборка
+
+Запустите команду `ng build` чтобы собрать проект. 
+
+Проект будет храниться в директории `dist/` 
+
+Используйте флаг `--prod` для сборки в продакшн
 
 ## Running unit tests
 
